@@ -2366,5 +2366,6 @@ input, select, textarea {
     text-decoration: none;
     background: 0 0;
     transition: all .3s ease-in-out;
-    padding: 0.3em;
+	padding: 0.3em;
+	place-self: center;
 }
